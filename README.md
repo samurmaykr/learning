@@ -1,2 +1,4 @@
 # learning
-im learning how to use github
+
+
+**Today** I learned how to write in _Markdown_ `code`!
